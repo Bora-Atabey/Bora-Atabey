@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Bora Atabey</h1>
-<h3 align="center">Game Developer🌟 </h3>
+<h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Bora Atabey</h1>
+<h3 align="center">👾Game Developer👾 </h3>
 
 <br>
 
@@ -7,10 +7,10 @@
 
 <br>
 
-- 🌱 I’m currently learning Game Development and other programming languages.
+- 🎆 I’m currently a Software Engineering student,learning Game Development and other programming languages.
 - 📫 How to reach me: **bora.atabey@ogr.gelisim.edu.tr**
 - 🚀 My Personal Website: **www.boraatabey.com** (Coming soon)
-- ⚡ Fun Fact: Code and Music🎵 are the reasons to live.
+- ⚡ Fun Fact: Code,Music🤘 and Gaming🎮 are the reasons to live.
 
 - [![](https://visitcount.itsvg.in/api?id=Bora-Atabey&icon=0&color=6)](https://visitcount.itsvg.in)
 
