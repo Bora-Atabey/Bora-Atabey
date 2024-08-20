@@ -38,7 +38,7 @@
 <br>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bora-Atabey&&row=1&theme=radical&no-bg=true" alt="EfrunEvdi" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bora-Atabey&&row=1&theme=nord&no-bg=true" alt="EfrunEvdi" /></a>
 </p>
 
 <br>
@@ -48,20 +48,20 @@
 <table border="5" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Bora-Atabey&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+      <img src="https://github-readme-stats.vercel.app/api?username=Bora-Atabey&amp;theme=nord&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
     </td>
     <td width="50%" align="center" rowspan="2">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bora-Atabey&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bora-Atabey&theme=nord&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bora-Atabey&amp;theme=radical&amp;hide_border=false" alt="">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bora-Atabey&amp;theme=nord&amp;hide_border=false" alt="">
     </td>
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bora-Atabey&theme=radical&hide_border=false">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bora-Atabey&theme=nord&hide_border=false">
     </td>
   </tr>
 </table>
